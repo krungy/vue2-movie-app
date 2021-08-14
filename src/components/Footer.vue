@@ -2,7 +2,7 @@
   <footer>
     <Logo />
     <a
-      href="https://heropy.blog"
+      href="https://velog.io/@krungy"
       target="_blank">
       (c){{ thisYear }} {{ name }} 
     </a>

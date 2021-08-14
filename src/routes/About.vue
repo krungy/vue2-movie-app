@@ -13,7 +13,7 @@
     </div>
     <div>{{ email }}</div>
     <div>{{ blog }}</div>
-    <div>{{ phone }}</div>
+    <!-- <div>{{ phone }}</div> -->
   </div>
 </template>
 

@@ -2,7 +2,7 @@
   <footer>
     <Logo />
     <a
-      href="https://velog.io/@krungy"
+      href="https://github.com/krungy"
       target="_blank">
       (c){{ thisYear }} {{ name }} 
     </a>
